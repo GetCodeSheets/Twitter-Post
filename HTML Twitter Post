@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Post</title>
+</head>
+
+<body>
+    <blockquote class="twitter-tweet">
+        <p lang="en" dir="ltr">Be Honest! <br><br>Do you still call it Twitter or do you call it X? <a
+                href="https://t.co/ErDf0gR4vx">pic.twitter.com/ErDf0gR4vx</a></p>&mdash; Elon Musk - Parody (@elonmuskADO)
+        <a href="https://twitter.com/elonmuskADO/status/1781337041839456706?ref_src=twsrc%5Etfw">April 19, 2024</a>
+    </blockquote>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+
+</html>
